@@ -133,6 +133,9 @@ h1{
     font-style: normal;
     line-height: 1.5;
     margin-bottom: 1rem;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
 }
 .seccion-oscura{
     color: white;
